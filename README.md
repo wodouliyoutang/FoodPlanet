@@ -11,4 +11,5 @@ localhost.com/index.html
 ```
 
 ### 效果如下
-<img src="show.gif" alt="show" />
+
+![动画名称](show.gif.gif)
