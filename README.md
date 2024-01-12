@@ -11,4 +11,4 @@ localhost.com/index.html
 ```
 
 ### 效果如下
-<img src="./show.gif" alt="show" />
+<img src="show.gif" alt="show" />
